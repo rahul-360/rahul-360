@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **React.js Node.js MongoDB**
+- 🌱 I’m currently learning **React.js Node.js MongoDB Express**
 
-- 💬 Ask me about **HTML CSS JavaScript Bootstrap React.js Git Github Linkedin**
+- 💬 Ask me about **#HTML #CSS #JavaScript #Bootstrap #React.js #Git-Github #Linkedin**
 
 - 📫 How to reach me **rahulsharma.cse00@gmail.com**
 
