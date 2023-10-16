@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw38on8bBIpnkYKeET7R3twg&ust=1697513084282000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjutJzP-YEDFQAAAAAdAAAAABAQ">
+<img align="right" alt="coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/102182985/261095051-29e36476-8397-4e2f-be2d-170c4586f5cf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-360&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-360" /> </p>
 
