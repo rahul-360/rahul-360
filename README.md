@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
-<h3 align="center">Front End Web Developer</h3>
+<h3 align="center">Creating user-friendly websites with top-notch front-end development skills.</h3>
 <img align="right" alt="coding" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/102182985/261095051-29e36476-8397-4e2f-be2d-170c4586f5cf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-360&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-360" /> </p>
