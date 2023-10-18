@@ -4,9 +4,18 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=rahul-360&style=flat-square)
 
-<p align="left"> <a href="https://twitter.com/apurva_313" target="blank"><img src="https://img.shields.io/twitter/follow/apurva_313?logo=twitter&style=for-the-badge" alt="apurva_313" /></a> </p>
+<p align="left"> <a href="https://x.com/rahul360_" target="blank"><img src="https://img.shields.io/twitter/follow/rahul360_?logo=twitter&style=for-the-badge" alt="rahul360_" /></a> </p>
 
-- 🔭 I’m currently working on **AI-ML Project**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-360&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-360" /> </p>
+
+- 🔭 I’m currently working on **Web Development**
+
+- 🌱 I’m currently learning **React.js Node.js MongoDB Express**
+
+- 💬 Ask me about **#HTML #CSS #JavaScript #Bootstrap #React.js #Git-Github #Linkedin**
+
+
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **DSA,MySQL**
 
@@ -46,13 +55,7 @@
  
  
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-360&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-360" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **React.js Node.js MongoDB Express**
-
-- 💬 Ask me about **#HTML #CSS #JavaScript #Bootstrap #React.js #Git-Github #Linkedin**
 
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **rahulsharma.cse00@gmail.com**
