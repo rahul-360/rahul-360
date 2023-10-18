@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://x.com/rahul360_" target="blank"><img src="https://img.shields.io/twitter/follow/rahul360_?logo=twitter&style=for-the-badge" alt="rahul360_"/></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/rahul360-" target="blank"><img src="https://img.shields.io/linkedin/follow/rahul360-?logo=linkedin&style=for-the-badge" alt="rahul360-"/></a> </p>
-
 
 - 🔭 I’m currently working on **Web Development**
 
