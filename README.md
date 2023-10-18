@@ -18,15 +18,15 @@
 
 - 📫 How to reach me **rahulsharma.cse00@gmail.com**
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/rahul360-)
-[![My Skills](https://skillicons.dev/icons?i=twitter&theme=light)](https://x.com/rahul360_)
-[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/rahul-360)
-[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://Instagram.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rahul360-)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/rahul360_)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/rahul-360)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://Instagram.com)
 
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/rahul-360">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,nodejs,mongodb,express,php,c,git,github,vscode,java,py,aws,wordpress,&perline=6" />
   </a>
 </p>
