@@ -19,9 +19,9 @@
 - 📫 How to reach me **rahulsharma.cse00@gmail.com**
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/rahul360-)
-
-
-![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,github,instagram&theme=light)
+[![My Skills](https://skillicons.dev/icons?i=twitter&theme=light)](https://x.com/rahul360_)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/rahul-360)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://Instagram.com)
 
 <h3 align="center">Languages and Tools:</h3>
 
