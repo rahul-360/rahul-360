@@ -13,10 +13,9 @@
 
 - 💬 Ask me about **#HTML #CSS #JavaScript #Bootstrap #React.js #Git-Github #Linkedin**
 
+- 📫 How to reach me **rahulsharma.cse00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
-- 📫 How to reach me **rahulsharma.cse00@gmail.com**
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rahul360-)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/rahul360_)
