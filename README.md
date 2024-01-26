@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rahul360-)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/rahul360_)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/rahul-360)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://Instagram.com)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://Instagram.com/rks_360)
 
 <h3 align="center">Languages and Tools:</h3>
 
